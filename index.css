@@ -1,0 +1,21 @@
+body {
+    background-image:url(./image/bg.svg)
+}
+
+.text {
+    width: 40vw;
+    height: 130px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    right: 100px; 
+    }
+
+
+.image {
+    width: 20vw;
+    hight: auto;
+    position: absolute;
+    left: 50vw;
+    top: 5vh    
+}
